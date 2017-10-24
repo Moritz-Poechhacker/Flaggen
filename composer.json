@@ -1,0 +1,18 @@
+{
+  "name": "Moritz/Flaggen",
+  "description": "Mit diesem kleinen PhP File kann man Flaggen erstellen",
+  "type": "Library",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Moritz Poechhacker",
+      "email": "moritz.poechhacker@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+        "psr-4": {
+          "Moritz\\Flaggen": "src/"
+        }
+  }
+}
