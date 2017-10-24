@@ -10,7 +10,7 @@ namespace Moritz\Flaggen;
 /**
  * Class RectFlag
  */
-class RectangleFlag extends Flag implements FlagInterface{
+class rectFlag extends Flag implements FlagInterface{
 
     private $width;
     private $height;
